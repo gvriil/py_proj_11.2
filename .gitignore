@@ -19,7 +19,6 @@ venv/
 *.idea/misc.xml
 *.idea/modules.xml
 *.idea/vcs.xml
-.idea/
 
 # Игнорировать файлы локальных настроек PyCharm
 *___jb_old___
@@ -28,4 +27,3 @@ venv/
 *.pyc
 *.pyo
 *.pyd
-__pycache__/
