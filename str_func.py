@@ -1,0 +1,1 @@
+# В файле str_func.pydef to_uppercase(input_str):    return input_str.upper()
