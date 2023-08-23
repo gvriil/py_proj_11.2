@@ -1,1 +1,1 @@
-# В файле str_func.pydef to_uppercase(input_str):    return input_str.upper()def to_capitalize(input_str):    """    Принимает строку и возвращает её с заглавными первыми буквами каждого слова.    """    return ' '.join(word.capitalize() for word in input_str.split())
+# В файле str_func.pydef to_uppercase(input_str):    return input_str.upper()def to_capitalize(input_str):    """    Принимает строку и возвращает её с заглавными первыми буквами каждого слова.    """    return ' '.join(word.capitalize() for word in input_str.split())
