@@ -1,0 +1,29 @@
+# Игнорировать директорию .idea/
+.idea/
+
+# Игнорировать все файлы .iml
+*.iml
+
+# Игнорировать директорию __pycache__/
+__pycache__/
+
+# Игнорировать директорию .pytest_cache/
+.pytest_cache/
+
+# Игнорировать виртуальное окружение
+venv/
+
+# Игнорировать файлы кеша PyCharm
+*.bak
+*.idea/workspace.xml
+*.idea/misc.xml
+*.idea/modules.xml
+*.idea/vcs.xml
+
+# Игнорировать файлы локальных настроек PyCharm
+*___jb_old___
+*___jb_tmp___
+*___jb_bak___
+*.pyc
+*.pyo
+*.pyd
